@@ -76,6 +76,8 @@ This strategy encourages the generator to focus on degradation-related cues whil
 
 <p align="center">
   <img src="figure/app_pseudo_degraded_image_01.jpg" width="80%">
+  <br>
+  <em>visual examples of pseudo-paired degradation synthesis across different restoration tasks. For each task, the generator transfers task-specific degradation characteristics to clean images while preserving the principal background content. The synthesized pseudo-degraded images and their corresponding clean inputs form pseudo pairs for restoration learning.</em>
 </p>
 
 ## 📊 Performance Highlights
