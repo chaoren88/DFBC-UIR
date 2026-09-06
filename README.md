@@ -74,6 +74,10 @@ This strategy encourages the generator to focus on degradation-related cues whil
   <em>Left: Visualization of the redundant information transfer problem and the effect of the self-reconstruction strategy. Right: Visualization of the self-reconstruction strategy.</em>
 </p>
 
+<p align="center">
+  <img src="figure/app_pseudo_degraded_image_01.jpg" width="80%">
+</p>
+
 ## 📊 Performance Highlights
 
 ### Extensive Evaluation Across Five Restoration Tasks
